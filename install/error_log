@@ -1,0 +1,2 @@
+[19-Aug-2020 01:21:35 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'jawwadni_ecommer'@'localhost' (using password: YES) in /home2/jawwadnissar/demos.techtrands.com/ecommerce/install/install.php on line 262
+[19-Aug-2020 01:22:37 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'jawwadni_ecommer'@'localhost' (using password: YES) in /home2/jawwadnissar/demos.techtrands.com/ecommerce/install/install.php on line 262
